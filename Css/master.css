@@ -108,7 +108,7 @@ border-width: 15px;
 }
 /* End header */
 .landing{
-    background-image: url(/Media/20091130-Teton-Moonlight-bw.jpg);
+    background-image: url(./Media/20091130-Teton-Moonlight-bw.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
     display: flex;
